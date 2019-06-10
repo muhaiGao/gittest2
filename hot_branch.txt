@@ -1,4 +1,9 @@
 1.this is hot_fix branch.
 2.first new branch.
+<<<<<<< HEAD
 3.333333333
 4.edit by hot_fi.x
+=======
+3.edit by master.
+4.44444444444
+>>>>>>> master
